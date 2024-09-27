@@ -52,12 +52,17 @@ body{
     margin: 15px;
 }
 
+.framewrk{
+    color: #fff;
+}
+
 input[type="text"]{
     width: 260px;
     height: 35px;
     border-radius: 5px;
     background-color: black;
     border: 1px solid #686464; 
+    color: #fff;
 }
 
 select{
